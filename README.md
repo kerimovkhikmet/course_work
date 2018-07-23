@@ -1,2 +1,2 @@
-# sda_course_work
-3D matrix sort
+# course_work from discipline Data Structures and Algorithms
+3D matrix sort section by section, using different sorting algorithms
