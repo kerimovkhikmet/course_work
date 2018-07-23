@@ -1,4 +1,4 @@
-# course_work 
+# Course Work 
 From discipline Data Structures and Algorithms
 
 3D matrix sort section by section, using different sorting algorithms
